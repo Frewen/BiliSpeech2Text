@@ -1,0 +1,13 @@
+{
+    "bilibili": {
+        "cookies": {
+            "SESSDATA": "6f61bfe1%2C1741786292%2C813b8%2A92CjDSg3Qb1WHTAS4tbNsmq6nSHAKtO9A5CKD3nHW6OPMbfC162ez2ZiuoMnFPZ47xxlwSVmlUVk96am1VLWtnbTF5R2VPdk03YlZ6REwyWmRSa3N0cXBLS0pBaExELTQ0ZjJManNZenh5SEpQMC0yMlVlXzhKUjk5Z1lTZWdxb0F3ZmpIVXpsUENnIIEC",
+            "bili_jct": "8b25e1ddd94a0af4289483a7aa81cc1a",
+            "DedeUserID": "11639074"
+        },
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+            "Referer": "https://www.bilibili.com"
+        }
+    }
+}
